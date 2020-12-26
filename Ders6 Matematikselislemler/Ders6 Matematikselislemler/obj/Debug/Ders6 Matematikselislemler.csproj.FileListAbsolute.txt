@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\Ders6 Matematikselislemler\Ders6 Matematikselislemler\bin\Debug\Ders6 Matematikselislemler.exe.config
+C:\Users\1\source\repos\Ders6 Matematikselislemler\Ders6 Matematikselislemler\bin\Debug\Ders6 Matematikselislemler.exe
+C:\Users\1\source\repos\Ders6 Matematikselislemler\Ders6 Matematikselislemler\bin\Debug\Ders6 Matematikselislemler.pdb
+C:\Users\1\source\repos\Ders6 Matematikselislemler\Ders6 Matematikselislemler\obj\Debug\Ders6 Matematikselislemler.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Ders6 Matematikselislemler\Ders6 Matematikselislemler\obj\Debug\Ders6 Matematikselislemler.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Ders6 Matematikselislemler\Ders6 Matematikselislemler\obj\Debug\Ders6 Matematikselislemler.exe
+C:\Users\1\source\repos\Ders6 Matematikselislemler\Ders6 Matematikselislemler\obj\Debug\Ders6 Matematikselislemler.pdb

@@ -10,6 +10,16 @@ namespace Ders6_Matematikselislemler
     {
         static void Main(string[] args)
         {
+            int sayi1 = 30;
+            int sayi2 = 20;
+
+            Console.WriteLine(sayi1 + sayi2);
+            Console.WriteLine(sayi1 - sayi2);
+            Console.WriteLine(sayi1 * sayi2);
+            Console.WriteLine((double)sayi1 / sayi2);
+            Console.WriteLine(sayi1 % sayi2);
+            Console.ReadLine();
+
         }
     }
 }
