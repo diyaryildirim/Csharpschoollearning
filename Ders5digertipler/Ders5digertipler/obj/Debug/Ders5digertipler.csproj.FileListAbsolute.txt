@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\Ders5digertipler\Ders5digertipler\obj\Debug\Ders5digertipler.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Ders5digertipler\Ders5digertipler\obj\Debug\Ders5digertipler.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Ders5digertipler\Ders5digertipler\bin\Debug\Ders5digertipler.exe.config
+C:\Users\1\source\repos\Ders5digertipler\Ders5digertipler\bin\Debug\Ders5digertipler.exe
+C:\Users\1\source\repos\Ders5digertipler\Ders5digertipler\bin\Debug\Ders5digertipler.pdb
+C:\Users\1\source\repos\Ders5digertipler\Ders5digertipler\obj\Debug\Ders5digertipler.exe
+C:\Users\1\source\repos\Ders5digertipler\Ders5digertipler\obj\Debug\Ders5digertipler.pdb
