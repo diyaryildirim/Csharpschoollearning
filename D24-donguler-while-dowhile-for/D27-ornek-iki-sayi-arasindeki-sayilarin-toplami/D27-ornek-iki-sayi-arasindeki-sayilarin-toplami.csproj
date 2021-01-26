@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>D27_ornek_iki_sayi_arasindeki_sayilarin_toplami</RootNamespace>
+  </PropertyGroup>
+
+</Project>

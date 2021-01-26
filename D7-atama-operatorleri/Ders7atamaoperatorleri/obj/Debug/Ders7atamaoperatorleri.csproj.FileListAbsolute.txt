@@ -1,7 +1,0 @@
-C:\Users\1\source\repos\Ders7atamaoperatorleri\Ders7atamaoperatorleri\bin\Debug\Ders7atamaoperatorleri.exe.config
-C:\Users\1\source\repos\Ders7atamaoperatorleri\Ders7atamaoperatorleri\bin\Debug\Ders7atamaoperatorleri.exe
-C:\Users\1\source\repos\Ders7atamaoperatorleri\Ders7atamaoperatorleri\bin\Debug\Ders7atamaoperatorleri.pdb
-C:\Users\1\source\repos\Ders7atamaoperatorleri\Ders7atamaoperatorleri\obj\Debug\Ders7atamaoperatorleri.csprojAssemblyReference.cache
-C:\Users\1\source\repos\Ders7atamaoperatorleri\Ders7atamaoperatorleri\obj\Debug\Ders7atamaoperatorleri.csproj.CoreCompileInputs.cache
-C:\Users\1\source\repos\Ders7atamaoperatorleri\Ders7atamaoperatorleri\obj\Debug\Ders7atamaoperatorleri.exe
-C:\Users\1\source\repos\Ders7atamaoperatorleri\Ders7atamaoperatorleri\obj\Debug\Ders7atamaoperatorleri.pdb

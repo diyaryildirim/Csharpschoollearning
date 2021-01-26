@@ -1,7 +1,0 @@
-C:\Users\1\source\repos\ders11\ders11\bin\Debug\ders11.exe.config
-C:\Users\1\source\repos\ders11\ders11\bin\Debug\ders11.exe
-C:\Users\1\source\repos\ders11\ders11\bin\Debug\ders11.pdb
-C:\Users\1\source\repos\ders11\ders11\obj\Debug\ders11.csprojAssemblyReference.cache
-C:\Users\1\source\repos\ders11\ders11\obj\Debug\ders11.csproj.CoreCompileInputs.cache
-C:\Users\1\source\repos\ders11\ders11\obj\Debug\ders11.exe
-C:\Users\1\source\repos\ders11\ders11\obj\Debug\ders11.pdb

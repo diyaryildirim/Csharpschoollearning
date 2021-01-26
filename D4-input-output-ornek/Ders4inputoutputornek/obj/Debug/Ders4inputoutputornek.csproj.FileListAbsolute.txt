@@ -1,7 +1,0 @@
-C:\Users\1\source\repos\Ders4inputoutputornek\Ders4inputoutputornek\bin\Debug\Ders4inputoutputornek.exe.config
-C:\Users\1\source\repos\Ders4inputoutputornek\Ders4inputoutputornek\bin\Debug\Ders4inputoutputornek.exe
-C:\Users\1\source\repos\Ders4inputoutputornek\Ders4inputoutputornek\bin\Debug\Ders4inputoutputornek.pdb
-C:\Users\1\source\repos\Ders4inputoutputornek\Ders4inputoutputornek\obj\Debug\Ders4inputoutputornek.csprojAssemblyReference.cache
-C:\Users\1\source\repos\Ders4inputoutputornek\Ders4inputoutputornek\obj\Debug\Ders4inputoutputornek.csproj.CoreCompileInputs.cache
-C:\Users\1\source\repos\Ders4inputoutputornek\Ders4inputoutputornek\obj\Debug\Ders4inputoutputornek.exe
-C:\Users\1\source\repos\Ders4inputoutputornek\Ders4inputoutputornek\obj\Debug\Ders4inputoutputornek.pdb

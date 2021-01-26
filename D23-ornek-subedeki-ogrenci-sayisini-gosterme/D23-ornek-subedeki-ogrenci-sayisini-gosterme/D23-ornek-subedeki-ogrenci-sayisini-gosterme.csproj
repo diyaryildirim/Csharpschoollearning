@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>D23_ornek_subedeki_ogrenci_sayisini_gosterme</RootNamespace>
+  </PropertyGroup>
+
+</Project>
