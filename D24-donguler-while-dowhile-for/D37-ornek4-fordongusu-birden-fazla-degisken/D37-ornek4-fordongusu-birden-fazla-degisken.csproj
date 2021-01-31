@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>D37_ornek4_fordongusu_birden_fazla_degisken</RootNamespace>
+  </PropertyGroup>
+
+</Project>
