@@ -26,7 +26,15 @@ namespace D42_donus_degerine_sahip_metotlar
         }
         static bool anatarVarMi(string ifade)
         {
-            if (ifade == "Var"; ifade == "VAR")
+            if (ifade == "Var")
+            {
+                return true;
+            }
+            else if (ifade=="var")
+            {
+                return true;
+            }
+            else if(ifade=="VAR")
             {
                 return true;
             }

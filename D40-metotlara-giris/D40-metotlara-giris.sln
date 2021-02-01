@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D41-bos-donduren-parametrel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D42-donus-degerine-sahip-metotlar", "D42-donus-degerine-sahip-metotlar\D42-donus-degerine-sahip-metotlar.csproj", "{2A68C213-BB61-4B33-A6B6-3F11F7112FF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D43-tercihe-bagli-isimlendirilmis-parametre", "D43-tercihe-bagli-isimlendirilmis-parametre\D43-tercihe-bagli-isimlendirilmis-parametre.csproj", "{582374DA-2D85-425C-8360-9ACD0E8750B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D44-arguman-gecisleri", "D44-arguman-gecisleri\D44-arguman-gecisleri.csproj", "{83CCDD4C-B329-4F76-A73D-2586791A5C6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{2A68C213-BB61-4B33-A6B6-3F11F7112FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A68C213-BB61-4B33-A6B6-3F11F7112FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A68C213-BB61-4B33-A6B6-3F11F7112FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582374DA-2D85-425C-8360-9ACD0E8750B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582374DA-2D85-425C-8360-9ACD0E8750B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582374DA-2D85-425C-8360-9ACD0E8750B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582374DA-2D85-425C-8360-9ACD0E8750B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CCDD4C-B329-4F76-A73D-2586791A5C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CCDD4C-B329-4F76-A73D-2586791A5C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CCDD4C-B329-4F76-A73D-2586791A5C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CCDD4C-B329-4F76-A73D-2586791A5C6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
