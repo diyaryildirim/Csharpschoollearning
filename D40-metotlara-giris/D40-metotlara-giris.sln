@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D43-tercihe-bagli-isimlendi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D44-arguman-gecisleri", "D44-arguman-gecisleri\D44-arguman-gecisleri.csproj", "{83CCDD4C-B329-4F76-A73D-2586791A5C6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D45-metotllarda-asiriyukleme", "D45-metotllarda-asiriyukleme\D45-metotllarda-asiriyukleme.csproj", "{20D9F5A3-B066-47F0-A7BB-C56A7E257615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D46-recursive-metotlar", "D46-recursive-metotlar\D46-recursive-metotlar.csproj", "{3DE4992F-D81A-4392-825F-87B43C87D2CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{83CCDD4C-B329-4F76-A73D-2586791A5C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83CCDD4C-B329-4F76-A73D-2586791A5C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83CCDD4C-B329-4F76-A73D-2586791A5C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D9F5A3-B066-47F0-A7BB-C56A7E257615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D9F5A3-B066-47F0-A7BB-C56A7E257615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D9F5A3-B066-47F0-A7BB-C56A7E257615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D9F5A3-B066-47F0-A7BB-C56A7E257615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE4992F-D81A-4392-825F-87B43C87D2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE4992F-D81A-4392-825F-87B43C87D2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE4992F-D81A-4392-825F-87B43C87D2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE4992F-D81A-4392-825F-87B43C87D2CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
