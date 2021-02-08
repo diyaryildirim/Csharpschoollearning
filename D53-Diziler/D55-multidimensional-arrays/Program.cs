@@ -9,14 +9,19 @@ namespace D55_multidimensional_arrays
         {
             int[ , , ] sayilar = { { {2,3 },{ 4,5 } } ,{ {4,5},{6,7} },{ {6,7},{8,9} } };
 
-           // Console.WriteLine(sayilar[1,0]);
+           
 
-            for(int i=0; i<3 ; i++)
+            for(int x=0; x<3 ; x++)
             {
-                for(int j=0; j<3 ;j++)
+                for(int y=0; y<2 ;y++)
                 {
-                   Console.Write(sayilar[i, j]+ " ");
+                    for(int z=0; z<2; z++)
+                    {
+                        Console.Write(sayilar[x, y, z]);
+                    }
+                    Console.WriteLine();
                 }
+                Console.WriteLine();
             }
 
             Console.ReadLine();
