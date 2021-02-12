@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D55-multidimensional-arrays
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D56-jaggead-arrays", "D56-jaggead-arrays\D56-jaggead-arrays.csproj", "{AE31C508-E8CF-4873-836C-F330513FF894}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D57-dizilerin-ozellikleri", "D57-dizilerin-ozellikleri\D57-dizilerin-ozellikleri.csproj", "{1D578AC9-8FB8-4679-8FCD-906A8AF36B45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D58-string-ozellikleri-metotları", "D58-string-ozellikleri-metotları\D58-string-ozellikleri-metotları.csproj", "{642E6684-B03F-4734-8AC4-0FC57BD2E8AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{AE31C508-E8CF-4873-836C-F330513FF894}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE31C508-E8CF-4873-836C-F330513FF894}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE31C508-E8CF-4873-836C-F330513FF894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D578AC9-8FB8-4679-8FCD-906A8AF36B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D578AC9-8FB8-4679-8FCD-906A8AF36B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D578AC9-8FB8-4679-8FCD-906A8AF36B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D578AC9-8FB8-4679-8FCD-906A8AF36B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642E6684-B03F-4734-8AC4-0FC57BD2E8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642E6684-B03F-4734-8AC4-0FC57BD2E8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642E6684-B03F-4734-8AC4-0FC57BD2E8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642E6684-B03F-4734-8AC4-0FC57BD2E8AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
