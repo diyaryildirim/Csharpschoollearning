@@ -8,11 +8,27 @@ namespace D58_string_ozellikleri_metotları
         {
             string isim = "Diyar Yıldırım";
 
-            isim = isim.Insert(0, "Hacker");
+            isim = isim.Substring(isim.IndexOf('Y'));
+
+           //isim = isim.Remove(isim.IndexOf(" "), 1) ;
+
+            //isim = isim.Insert(0, "Hacker");
+
+            //isim = isim.Replace("Black Hat", "Hacker");
+
+            /*if (isim.Contains("Diyar"))
+            {
+                isim = isim.Replace("Diyar", "Hacker");
+            }*/
 
             Console.WriteLine(isim);
 
-            //Index of
+
+
+            //Index of -> bir ifadenin indeksini bulma 
+            //Insert ->eklemek
+            //Replace -> yer değiştirme
+            //contains -> bir ifadenin o strinte bulunup bulunmadğı "Bool"
 
             /*
              for(int i=0;i<İsim.Length; i++)
@@ -20,9 +36,8 @@ namespace D58_string_ozellikleri_metotları
                 Console.WriteLine(İsim[i]);
                     
             }
-             
-             
              */
+
 
             Console.ReadLine();
         }
