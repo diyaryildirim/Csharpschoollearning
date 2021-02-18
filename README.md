@@ -1,3 +1,3 @@
 # csharplearning School version
-New language 
-Change me! method
+New language to Programming school
+Yeni başlayanlar için örnekler 
