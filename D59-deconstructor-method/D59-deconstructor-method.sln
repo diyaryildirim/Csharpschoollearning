@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D60-static-method", "D60-st
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D61-static-siniflar", "D61-static-siniflar\D61-static-siniflar.csproj", "{BEC83CE5-957C-4B51-B1C2-F1C919129831}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D62-this-readonly-const", "D62-this-readonly-const\D62-this-readonly-const.csproj", "{493C362A-6DC0-4F32-9293-6BF73C0F8D71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BEC83CE5-957C-4B51-B1C2-F1C919129831}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEC83CE5-957C-4B51-B1C2-F1C919129831}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEC83CE5-957C-4B51-B1C2-F1C919129831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493C362A-6DC0-4F32-9293-6BF73C0F8D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493C362A-6DC0-4F32-9293-6BF73C0F8D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493C362A-6DC0-4F32-9293-6BF73C0F8D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493C362A-6DC0-4F32-9293-6BF73C0F8D71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

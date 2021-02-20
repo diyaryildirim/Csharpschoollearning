@@ -7,13 +7,16 @@ namespace D61_static_siniflar
         //Array'in bazı metotları  //Math  //String'in bazı metotları
         static void Main(string[] args)
         {
-            string isim = "Diyar";
+            /* string isim = "Diyar";
 
-            string soyad = "Yıldırım";
+             string soyad = "Yıldırım";
 
-            string fullName = String.Concat(isim+"  "+ soyad);
-            Console.WriteLine(fullName);
+             string fullName = String.Concat(isim+"  "+ soyad);
+             Console.WriteLine(fullName);
+            */
 
+           // Console.WriteLine(DateTime.Now);
+            Console.WriteLine(DateTime.DaysInMonth(2021,02));
 
             // Console.WritLine(Math.PI);
             /*
